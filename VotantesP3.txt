@@ -1,0 +1,12 @@
+total de votos Nulo/Branco                                                                     
+0 
+total de votos urna-1 Modulo 1                                                                     
+0    
+total de votos urna-2 Modulo 3                                                                     
+0        
+total de votos urna-3 Modulo 5                                                                     
+0
+total de votos urna-4 Modulo 7                                                                     
+0      
+Numero total de votos                                                                     
+0  
